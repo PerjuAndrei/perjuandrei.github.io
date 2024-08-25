@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e84db88a.css",
+    "main.js": "/portfolio/static/js/main.0f83fa2c.js",
+    "static/media/yahtzz.png": "/portfolio/static/media/yahtzz.23cb728e4cec16930095.png",
+    "static/media/coworkerbirthdays.png": "/portfolio/static/media/coworkerbirthdays.e703d126a183309c7bf4.png",
+    "static/media/sentiment.png": "/portfolio/static/media/sentiment.431cccd91b691ef9f142.png",
+    "static/media/curiousecandidateAI.png": "/portfolio/static/media/curiousecandidateAI.373433ea42df9c17d8ab.png",
+    "static/media/profile.png": "/portfolio/static/media/profile.357e8208a864c086fee7.png",
+    "static/media/rcaincident.png": "/portfolio/static/media/rcaincident.71a0420fb91221b7078d.png",
+    "static/media/rubybang.png": "/portfolio/static/media/rubybang.3e9c6441da892860a279.png",
+    "static/media/postgres.png": "/portfolio/static/media/postgres.4ba3baaab6bb2bc99312.png",
+    "static/media/A-black.png": "/portfolio/static/media/A-black.9a02718d395ea638dc55.png",
+    "static/media/graphql.png": "/portfolio/static/media/graphql.ab94178afce1748454c8.png",
+    "static/media/ruby.png": "/portfolio/static/media/ruby.64eee337feff1d1ec06c.png",
+    "static/media/rspec.png": "/portfolio/static/media/rspec.b489538c91db9119987f.png",
+    "static/media/cypress.png": "/portfolio/static/media/cypress.cb5031df4c7991b3cfb8.png",
+    "static/media/docker.png": "/portfolio/static/media/docker.4c8d6d3339149269cd27.png",
+    "static/media/rest.png": "/portfolio/static/media/rest.3c5f253a71256ec6297f.png",
+    "static/media/curiouscandidate.png": "/portfolio/static/media/curiouscandidate.429b7af36271125863c6.png",
+    "static/media/aws.png": "/portfolio/static/media/aws.75e3e79a48e16066ece8.png",
+    "static/media/heroku.png": "/portfolio/static/media/heroku.254f596ec25f0ebfc62b.png",
+    "static/media/rails.png": "/portfolio/static/media/rails.ca7df57b3521444d77a3.png",
+    "static/media/sql.png": "/portfolio/static/media/sql.27e2e74e81c8144e215d.png",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.a7d1ae0ffd4a86950fee.pdf",
+    "static/media/A-white.png": "/portfolio/static/media/A-white.70722b272d859f3e5854.png",
+    "index.html": "/portfolio/index.html",
+    "main.e84db88a.css.map": "/portfolio/static/css/main.e84db88a.css.map",
+    "main.0f83fa2c.js.map": "/portfolio/static/js/main.0f83fa2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e84db88a.css",
+    "static/js/main.0f83fa2c.js"
+  ]
+}
